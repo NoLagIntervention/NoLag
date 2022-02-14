@@ -1,2 +1,4 @@
 # NoLag
-NiLag for your Minecraft Server!!!!!
+NoLag for your Minecraft Server!!!!!
+
+Made by RaiTheShroom and NLI
